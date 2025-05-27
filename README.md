@@ -1,5 +1,3 @@
-# Steam Achievement Generator
-
 ![AchievementsGenLogo](https://github.com/user-attachments/assets/c9daffa1-1634-4be9-b665-c8999cc30647)
 
 A Windows Forms application designed to get any achievement data from a game with a downloaded SteamDB HTML page of it and generate a structured JSON file, download achievement icons, and create a `steam_appid.txt` file.
