@@ -1,4 +1,7 @@
-![AchievementsGenLogo](https://github.com/user-attachments/assets/c9daffa1-1634-4be9-b665-c8999cc30647)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c9daffa1-1634-4be9-b665-c8999cc30647" alt="AchievementsGenLogo" width="400"/> 
+  <!-- Puedes ajustar el 'width' según necesites -->
+</p>
 
 A Windows Forms application designed to get any achievement data from a game with a downloaded SteamDB HTML page of it and generate a structured JSON file, download achievement icons, and create a `steam_appid.txt` file.
 This tool is meant to be used with with `Golberg Steam Emu` and `Achievements Watcher`.
